@@ -6,7 +6,7 @@ Longest common subsequence
 The longest common subsequence (LCS) problem is to find the longest subsequence common to all sequences in a set of sequences (often just two). Note that subsequence is different from a substring, see substring vs. subsequence. It is a classic computer science problem, the basis of file comparison programs such as diff, and has applications in bioinformatics.
 Licenses
 --------
-- WinHtmlEditor is licensed under the terms of the Apache 2.0 License. The license can be found at
+- LCSDiff is licensed under the terms of the Apache 2.0 License. The license can be found at
   http://www.apache.org/licenses/LICENSE-2.0
 
 Donate:
